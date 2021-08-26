@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1013102123541",
+    "firebase_url": "https://flux-apps-default-rtdb.firebaseio.com",
+    "project_id": "flux-apps",
+    "storage_bucket": "flux-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013102123541:android:52a7c9b8c5067bd5304c1c",
+        "android_client_info": {
+          "package_name": "com.example.login_with_google_account"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013102123541-a8js7u2tq9dof5lb9ua9v0afh0bape00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_with_google_account",
+            "certificate_hash": "28480123333c010c9700b9e82eec7a9344a65d03"
+          }
+        },
+        {
+          "client_id": "1013102123541-trug48qp60o3tfvsaahqn243as2ttu9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_1fizp5NleM4vig4Pga9ZyR3eAMKA_nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013102123541-trug48qp60o3tfvsaahqn243as2ttu9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013102123541:android:fc28fa3588b1b698304c1c",
+        "android_client_info": {
+          "package_name": "com.inspireui.fluxstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013102123541-0njkanogagq6ukoq3e95bvfro5dj4hgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inspireui.fluxstore",
+            "certificate_hash": "28480123333c010c9700b9e82eec7a9344a65d03"
+          }
+        },
+        {
+          "client_id": "1013102123541-trug48qp60o3tfvsaahqn243as2ttu9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_1fizp5NleM4vig4Pga9ZyR3eAMKA_nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013102123541-trug48qp60o3tfvsaahqn243as2ttu9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
